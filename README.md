@@ -1,0 +1,1 @@
+This is a try at implementing a chrome extension from a tutorial with modifications to fix outdated 'chrome.tabs.getSelected()'
